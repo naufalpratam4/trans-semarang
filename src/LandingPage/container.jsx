@@ -1,4 +1,4 @@
-import jumbotron from "../../src/assets/informasi.png";
+import jumbotron from "../assets/informasi.png";
 import Fitur from "./Fitur";
 import DownloadSection from "./Download";
 

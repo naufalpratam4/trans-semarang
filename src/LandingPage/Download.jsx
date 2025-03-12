@@ -1,8 +1,8 @@
 import React from "react";
-import download from "../../src/assets/download.png";
-import ps from "../../src/assets/ps.png";
-import gform from "../../src/assets/gform.png";
-import apple from "../../src/assets/apple.png";
+import download from "../assets/download.png";
+import ps from "../assets/ps.png";
+import gform from "../assets/gform.png";
+import apple from "../assets/apple.png";
 
 const DownloadSection = () => {
   return (
